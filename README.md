@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sinha</h1>
-<h4 align="center">Inquisitive and passionate computer science student skilled in leadership, with a strong foundation in mathematical logic and programming.</h4>
+<h4 align="center">Inquisitive and passionate computer science student skilled in leadership, with a strong foundation in maths and programming.</h4>
 
 - 💬 Ask me about **Computer Science**
 
